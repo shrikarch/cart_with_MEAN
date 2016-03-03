@@ -1,0 +1,16 @@
+{
+    "name": "edx_mean",
+    "version": "0.0.0",
+    "description": "edX MEAN course trial",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha index.js"
+    },
+    "author": "Shrikar",
+    "license": "ISC",
+    "dependencies": {
+        "underscore": "*",
+        "mongodb": "~2.0",
+        "mocha": "~2.2"
+    }
+}
